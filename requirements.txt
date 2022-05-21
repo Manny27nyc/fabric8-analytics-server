@@ -186,7 +186,7 @@ pydantic==1.7.3
     # via -r requirements.in
 pygithub==1.54.1
     # via -r requirements.in
-pyjwt==1.7.1
+pyjwt==2.4.0
     # via
     #   fabric8a-auth
     #   pygithub
