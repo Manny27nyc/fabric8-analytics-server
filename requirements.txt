@@ -267,7 +267,7 @@ toml==0.9.4
     #   f8a-worker
 typing-extensions==3.7.4.3
     # via importlib-metadata
-urllib3==1.26.4
+urllib3==1.26.5
     # via
     #   botocore
     #   requests
