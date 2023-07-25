@@ -38,7 +38,7 @@ bs4==0.0.1
     # via f8a-utils
 celery==4.4.7
     # via f8a-worker
-certifi==2020.12.5
+certifi==2023.7.22
     # via requests
 cffi==1.14.4
     # via cryptography
