@@ -120,7 +120,7 @@ git2json==0.2.3
     # via f8a-worker
 gitdb==4.0.5
     # via gitpython
-gitpython==3.1.12
+gitpython==3.1.35
     # via
     #   -r requirements.in
     #   f8a-worker
