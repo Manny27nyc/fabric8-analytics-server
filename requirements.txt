@@ -182,7 +182,7 @@ py-lru-cache==0.1.4
     # via -r requirements.in
 pycparser==2.20
     # via cffi
-pydantic==1.7.3
+pydantic==1.10.13
     # via -r requirements.in
 pygithub==1.54.1
     # via -r requirements.in
