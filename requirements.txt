@@ -130,7 +130,7 @@ greenlet==1.0.0
     # via gevent
 gunicorn==20.0.4
     # via -r requirements.in
-idna==2.10
+idna==3.7
     # via requests
 importlib-metadata==3.4.0
     # via
