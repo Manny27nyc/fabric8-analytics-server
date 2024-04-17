@@ -128,7 +128,7 @@ graphviz==0.16
     # via selinon
 greenlet==1.0.0
     # via gevent
-gunicorn==20.0.4
+gunicorn==22.0.0
     # via -r requirements.in
 idna==2.10
     # via requests
